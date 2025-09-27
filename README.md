@@ -174,7 +174,7 @@ If you use this work in your research, please cite:
 ```bibtex
 @software{raemollm2024,
   title={RAEmoLLM: Lightweight Emotion-Aware Misinformation Detection},
-  author={[Your Name]},
+  author={Priyal Chugh},
   year={2024},
   url={https://github.com/priyal6/RAEmoLLM-Based-Lightweight-Emotion-Aware-Misinformation-Detection}
 }
